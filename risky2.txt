@@ -1,0 +1,20 @@
+1.  http://google.com                          
+2.  https://www.facebook.com                    
+3.  http://paypal.com                          
+4.  https://apple.com                           
+5.  http://example.com                          
+6.  http://free-money-claim.ru                 
+7.  http://faceb00k-verification.net           
+8.  http://app1e-support.com                    
+9.  http://paypal-secure-login.biz               
+10. http://192.168.1.1/login                    
+11. http://secure-update-account.tk             
+12. http://mybank-secure.cn                       
+13. https://login-paypal.com                      )
+14. http://bonus-prize-offer.win                 
+15. https://google.com/some/very/long/url/path/with/lots/of/segments/that/exceed/normal/length  
+16. https://github.com                           
+17. https://stackoverflow.com                    
+18. https://microsoft.com                         
+19. https://linkedin.com                          
+20. https://free-prizes-offer.info                 

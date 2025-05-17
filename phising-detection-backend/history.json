@@ -1,0 +1,954 @@
+[
+  {
+    "url": "https://www.godaddy.com/en-in",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "This URL appears to be safe.",
+    "reputation_score": 85,
+    "page_title": "Access Denied",
+    "timestamp": "2025-05-17T14:34:40.560649"
+  },
+  {
+    "url": "http://example.com/secure-login",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:39.927045"
+  },
+  {
+    "url": "http://free-money-claim.net/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:40.196855"
+  },
+  {
+    "url": "http://paypal.com.fake-verify.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:40.239762"
+  },
+  {
+    "url": "http://login.bankofamerica.security-alert.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:40.267495"
+  },
+  {
+    "url": "http://update-java-security.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:40.307514"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:40.493630"
+  },
+  {
+    "url": "http://bit.ly/evilshorturl",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:35:40.656520"
+  },
+  {
+    "url": "http://example.com/secure-login",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:09.346578"
+  },
+  {
+    "url": "http://free-money-claim.net/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:09.545931"
+  },
+  {
+    "url": "http://paypal.com.fake-verify.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:09.595680"
+  },
+  {
+    "url": "http://login.bankofamerica.security-alert.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:09.630043"
+  },
+  {
+    "url": "http://update-java-security.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Flagged by heuristic checks.",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:09.675940"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:09.863830"
+  },
+  {
+    "url": "http://bit.ly/evilshorturl",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-17T22:36:10.033883"
+  },
+  {
+    "url": "http://free-money-claim.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:27.999078"
+  },
+  {
+    "url": "http://secure-login-update.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.043088"
+  },
+  {
+    "url": "http://192.168.1.1/phishing/",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.091801"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.131844"
+  },
+  {
+    "url": "http://update-account-info.tk/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.170841"
+  },
+  {
+    "url": "http://win-prize-bonus.cn/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.215634"
+  },
+  {
+    "url": "http://paypal-secure-login.biz/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.255961"
+  },
+  {
+    "url": "http://192.0.2.1/verify",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.297390"
+  },
+  {
+    "url": "http://offer-prize-claim.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.346721"
+  },
+  {
+    "url": "http://g00gle.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:24:28.390274"
+  },
+  {
+    "url": "http://free-money-claim.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.605541"
+  },
+  {
+    "url": "http://secure-login-update.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.647828"
+  },
+  {
+    "url": "http://192.168.1.1/phishing/",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.704409"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.752818"
+  },
+  {
+    "url": "http://update-account-info.tk/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.796036"
+  },
+  {
+    "url": "http://win-prize-bonus.cn/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.839839"
+  },
+  {
+    "url": "http://paypal-secure-login.biz/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.887455"
+  },
+  {
+    "url": "http://192.0.2.1/verify",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.920905"
+  },
+  {
+    "url": "http://offer-prize-claim.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:14.976813"
+  },
+  {
+    "url": "https://www.google.com/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:15.173656"
+  },
+  {
+    "url": "https://www.wikipedia.org/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:28:15.374998"
+  },
+  {
+    "url": "http://faceb00k-verification.net",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:40:09.053325"
+  },
+  {
+    "url": "http://app1e-support.com",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:40:09.236190"
+  },
+  {
+    "url": "http://m1crosoft-login.info",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:40:09.283122"
+  },
+  {
+    "url": "http://goog1e-account-update.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:40:09.322618"
+  },
+  {
+    "url": "http://faceb00k-verification.net",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:47:56.413021"
+  },
+  {
+    "url": "http://app1e-support.com",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:47:56.575094"
+  },
+  {
+    "url": "http://m1crosoft-login.info",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:47:56.602588"
+  },
+  {
+    "url": "http://goog1e-account-update.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:47:56.656106"
+  },
+  {
+    "url": "http://faceb00k-verification.net",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:49:07.579248"
+  },
+  {
+    "url": "http://app1e-support.com",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:49:07.734528"
+  },
+  {
+    "url": "http://m1crosoft-login.info",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:49:07.772155"
+  },
+  {
+    "url": "http://goog1e-account-update.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:49:07.820534"
+  },
+  {
+    "url": "http://faceb00k-verification.net",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:51:46.720090"
+  },
+  {
+    "url": "http://app1e-support.com",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:51:46.755824"
+  },
+  {
+    "url": "http://faceb00k-verification.net",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:00.361878"
+  },
+  {
+    "url": "http://app1e-support.com",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:00.414266"
+  },
+  {
+    "url": "http://m1crosoft-login.info",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:00.471175"
+  },
+  {
+    "url": "http://goog1e-account-update.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL",
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:00.519716"
+  },
+  {
+    "url": "http://free-money-claim.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:34.930842"
+  },
+  {
+    "url": "http://secure-login-update.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:34.980678"
+  },
+  {
+    "url": "http://192.168.1.1/phishing/",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.028491"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.076918"
+  },
+  {
+    "url": "http://update-account-info.tk/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.127144"
+  },
+  {
+    "url": "http://win-prize-bonus.cn/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.180329"
+  },
+  {
+    "url": "http://paypal-secure-login.biz/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL",
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.225456"
+  },
+  {
+    "url": "http://192.0.2.1/verify",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.273167"
+  },
+  {
+    "url": "http://offer-prize-claim.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.324481"
+  },
+  {
+    "url": "https://www.google.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.373013"
+  },
+  {
+    "url": "https://www.wikipedia.org/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:52:35.920478"
+  },
+  {
+    "url": "http://free-money-claim.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:03.694413"
+  },
+  {
+    "url": "http://secure-login-update.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:03.749979"
+  },
+  {
+    "url": "http://192.168.1.1/phishing/",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:03.817259"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:03.858958"
+  },
+  {
+    "url": "http://update-account-info.tk/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:03.907119"
+  },
+  {
+    "url": "http://win-prize-bonus.cn/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:03.968987"
+  },
+  {
+    "url": "http://paypal-secure-login.biz/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:04.004774"
+  },
+  {
+    "url": "http://192.0.2.1/verify",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:04.053978"
+  },
+  {
+    "url": "http://offer-prize-claim.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:04.111411"
+  },
+  {
+    "url": "https://www.google.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:04.171581"
+  },
+  {
+    "url": "https://www.wikipedia.org/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:57:04.403943"
+  },
+  {
+    "url": "http://free-money-claim.net",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.625809"
+  },
+  {
+    "url": "http://secure-login-update.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.683235"
+  },
+  {
+    "url": "http://192.168.1.1/phishing/",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.730719"
+  },
+  {
+    "url": "http://malicious-site.ru/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.788746"
+  },
+  {
+    "url": "http://update-account-info.tk/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.824495"
+  },
+  {
+    "url": "http://win-prize-bonus.cn/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.885275"
+  },
+  {
+    "url": "http://paypal-secure-login.biz/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious TLD",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.932454"
+  },
+  {
+    "url": "http://192.0.2.1/verify",
+    "is_safe": false,
+    "threat_types": [
+      "Contains IP address instead of domain",
+      "Suspicious keywords detected in URL"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:33.980978"
+  },
+  {
+    "url": "http://offer-prize-claim.info/",
+    "is_safe": false,
+    "threat_types": [
+      "Suspicious keyword in domain",
+      "Suspicious TLD"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:34.031963"
+  },
+  {
+    "url": "https://www.google.com/",
+    "is_safe": false,
+    "threat_types": [
+      "Possible homoglyph/typosquatting detected"
+    ],
+    "message": "Heuristic rules triggered",
+    "reputation_score": 25,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:34.071247"
+  },
+  {
+    "url": "https://www.wikipedia.org/",
+    "is_safe": true,
+    "threat_types": [],
+    "message": "No threats detected.",
+    "reputation_score": 85,
+    "page_title": "Page title unavailable",
+    "timestamp": "2025-05-18T00:58:34.270893"
+  }
+]
